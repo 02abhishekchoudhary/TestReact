@@ -1,0 +1,12 @@
+.App_color-container{
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+}
+
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
